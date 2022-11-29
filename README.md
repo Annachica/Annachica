@@ -4,7 +4,6 @@
 - 💡 Já fiz um curso técnico em informática;
 - 💻 Uma estudante de programação;
 - 📱 Tive que começar meus estudos de programação com meu celular;
-- 👩‍🏫 Acho muito massa ensinar.
 
 ---
 
